@@ -1,2 +1,6 @@
-# bus-stops
-FiveM Script Adds locations around the map that you can pay to travel very configurable.
+# Bus Stops 🚏
+
+## Requirements 
+
+[ox_lib](https://github.com/overextended/ox_lib)
+
